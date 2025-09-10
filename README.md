@@ -12,7 +12,7 @@ A relational database system to handle hospital operations such as managing pati
 - **Views & Triggers** – For automation and simplified data access  
 - **Reports** – Queries for analytics (e.g., top doctors, revenue reports)  
 
-📁 [View Project Folder](./HOSPITALMANAGEMENTDATABASE)  
+📁 [View Project Folder](./HOSPITALMANAGEMENT)  
 
 ---
 
